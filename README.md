@@ -27,5 +27,8 @@ It seems, that Kyberia allows multiple logins (with different session IDs) and l
   
 I found an ugly bug in Kyberia, that literally took most of my Ks in my K-wallet, because it is very unintuitive -- in K-wallet upload setting, there is a number of Ks you have there. But if you click "upload", it uploads that number. So basically one click can upload all Ks from K-wallet to your current K buffer, but there's an upper limit of 123. So: I have 10 Ks in my K-wallet and 123 to post (at least I imported some backlog via Soup's RSS export feature). 700 Ks gone. I can't say I'm said, because until now, I never knew about K-wallet and other such stuff....
 
+Bitcoin donations welcome at **19bHgttUiWtWU6ifzdpdvnu4hqcUZQPFoA**
+
   [1]: http://flz.sk.cx/rss2kyberia-small.png
   [2]: http://flz.sk.cx/rss2kyberia.png
+
